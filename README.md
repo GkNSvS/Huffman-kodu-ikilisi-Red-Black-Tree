@@ -6,3 +6,4 @@ SİSTEM PROGRAMLAMA BAHAR 2021 PROJE ÖDEVİ
 ------------------------------------------
 B201210510          Gökhan SAVAŞ
 G201210501          Adem TUNÇALIN
+B201210504          Ümit İLHAN
