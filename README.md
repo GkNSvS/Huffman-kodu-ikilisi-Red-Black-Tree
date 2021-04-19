@@ -8,3 +8,5 @@ B201210510          Gökhan SAVAŞ
 G201210501          Adem TUNÇALIN
 B201210504          Ümit İLHAN
 B201210507          Emre YILDIZ
+
+Toplantı Notları 19.04.2021
