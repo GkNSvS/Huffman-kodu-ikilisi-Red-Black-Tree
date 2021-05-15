@@ -1,0 +1,25 @@
+/**
+* @file			src.c
+* 
+* @description	Huffman-kodu-ikilisi-Red-Black-Tree
+*             	SİSTEM PROGRAMLAMA BAHAR 2021 PROJE ÖDEVİ
+*
+* @course 		SAKARYA ÜNİVERSİTESİ Bilgisayar Mühendisliği
+* @assignment 	PROJE
+* @author 
+*				Öğrenci No Ad Soyad
+*				--------------------------
+*				B201210510 Gökhan SAVAŞ 
+*				G201210501 Adem TUNÇALIN 
+*				B201210504 Ümit İLHAN 
+*				B201210507 Emre YILDIZ
+
+*
+*		src Klasörü (Kaynak dosyalarınızın bulunduğu klasör)
+*		lib Klasörü (.o dosyalarının bulunduğu klasör)
+*		include Klasörü (Başlık dosyalarınızın bulunduğu klasör)
+*		doc Klasörü (Raporunuzun ve eğer varsa diğer dokümanların bulunduğu klasör.)
+*		bin Klasörü (Çalıştırılabilir dosyalarınızın bulunduğu klasör.)
+*		README (Kısa bilgi)
+*
+*/
