@@ -27,7 +27,6 @@ typedef struct partInfo {
 void *_yeniKilitIcerigi(int size, void * fonksiyonTutucuPointer, void * ikinciFonksiyonPointeri) // constructor fonksiyon
 {
     Part * i = calloc(1, size);
-    // virtual fonksiyon, hisseler.json dan fiyat dondurur, nesne.json dan birimFiyatxAdet dondurur, emirler.json dan islem turu ve adet dondurur.
     i->virtualFonksiyon = fonksiyonTutucuPointer;
     i->overWriteFonksiyonu = ikinciFonksiyonPointeri;
     // icerigiStructYapisi constructor kodlari ...
@@ -38,8 +37,6 @@ void *_yeniKilitIcerigi(int size, void * fonksiyonTutucuPointer, void * ikinciFo
 
 typedef struct nesne {            // kalitim yolu ile nesne sinifi
     Part satirIcerigi[MAX];
-    float fiyat;
-    int adet;
 }Nesne;
 
 char *kelimeDondur(Nesne * self,int indis)

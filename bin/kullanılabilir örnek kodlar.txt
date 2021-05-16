@@ -1,0 +1,11 @@
+Kullanım Şekli
+./program_adı -e kaynak_dosya
+./program_adı -d kaynak_dosya
+
+
+örnek şifreleme uç birim kodu:
+./program_adı -e ornek_metin
+
+örnek şifre çözme uç birim kodu:
+./program_adı -d encripted
+
